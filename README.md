@@ -1,9 +1,7 @@
 # SPI flasher cape for Beaglebone family
 
-![Cape rendering, top side]
-(/pcb_3d_render/beagleflash-top-render.png)
-![Cape rendering, bottom side]
-(/pcb_3d_render/beagleflash-bottom-render.png)
+![Cape rendering, top side](/pcb_3d_render/beagleflash-top-render.png)
+![Cape rendering, bottom side](/pcb_3d_render/beagleflash-bottom-render.png)
 
 ## Introduction
 
